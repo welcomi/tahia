@@ -1,0 +1,24 @@
+h1
+{
+	color: black;
+}
+
+body
+{
+	background-color: beige;
+}
+
+#carte
+{
+	
+	width: 1200px;
+	margin:0 auto;
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+	
+ul li
+{
+	list-style-type: none;
+}
